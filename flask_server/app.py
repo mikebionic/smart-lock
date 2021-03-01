@@ -2,7 +2,12 @@ from flask import Flask, render_template, make_response, request
 import requests
 
 cards = {
+	"46:0C:C8:0F": "gulbahar",
 	"26:B8:3C:1E": "mike",
+	"A6:88:E8:21": "selbi",
+	"23:BB:97:79": "dowletyar",
+	"C6:1D:D6:21": "Merdan",
+	"06:75:BC:1E": "dowlpack",
 }
 
 esp_device_key = "rfid_secret"
