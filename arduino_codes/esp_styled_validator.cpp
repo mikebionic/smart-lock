@@ -9,14 +9,14 @@ IPAddress gateway(192, 168, 31, 1);
 IPAddress subnet(255, 255, 255, 0);
 IPAddress dns(8, 8, 8, 8);
 
-const char* ssid = "home1111";
-const char* password = "d152535k";
+const char* ssid = "ssid";
+const char* password = "password";
 const char* deviceName = "Door";
 String serverUrl = "192.168.1.100:5000";
 String payload;
 String device_key = "rfid_secret";
 String command = "rfid_sensor";
-String validation_key = "D152535k";
+String validation_key = "key";
 String stream;
 
 ESP8266WebServer server(80);
