@@ -1,11 +1,11 @@
 # RFID Access Control System 🔐
 
-<div align="center">
-
-![Arduino](https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg)
-![Python](https://upload.wikimedia.org/wikipedia/commons/3/31/Python-logo.png)
-![NodeJS](https://upload.wikimedia.org/wikipedia/commons/6/67/NodeJS.png)
-
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Flask" height="70" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1920px-Flask_logo.svg.png" alt="Flask" height="70" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="arduino" height="70" />
+  <img src="https://www.svgrepo.com/show/473669/jinja.svg" alt="Jinja" height="70" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/NodeJS.png" alt="Nodejs" height="70" />
 </div>
 
 A DIY RFID-based access control system for office/building security. This university project eliminates the need for physical keys by using RFID cards for employee access, providing enhanced security and access logging.
